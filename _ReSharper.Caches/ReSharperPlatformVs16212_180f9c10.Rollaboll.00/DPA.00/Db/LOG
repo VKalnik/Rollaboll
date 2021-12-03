@@ -1,2 +1,5 @@
-2021/12/03-03:27:37.603000 29052 Creating DB E:\УЧЁБА\Стажировка\src\Rollaboll\_ReSharper.Caches\ReSharperPlatformVs16212_180f9c10.Rollaboll.00\DPA.00\Db since it was missing.
-2021/12/03-03:27:37.612000 29052 Delete type=3 #1
+2021/12/03-04:14:43.503000 30696 Recovering log #3
+2021/12/03-04:14:43.504000 30696 Level-0 table #5: started
+2021/12/03-04:14:43.505000 30696 Level-0 table #5: 6501 bytes OK
+2021/12/03-04:14:43.509000 30696 Delete type=0 #3
+2021/12/03-04:14:43.509000 30696 Delete type=3 #2
