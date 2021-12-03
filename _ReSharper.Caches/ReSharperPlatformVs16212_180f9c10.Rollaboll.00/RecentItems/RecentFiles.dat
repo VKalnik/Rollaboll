@@ -2,6 +2,7 @@
   <RecentFiles>
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Template/d:Scripts/f:SimpleCameraController.cs" caret="0" fromTop="0" />
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:PlayerController.cs" caret="776" fromTop="31" />
+    <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:CameraController.cs" caret="503" fromTop="21" />
   </RecentFiles>
   <RecentEdits>
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:PlayerController.cs" caret="112" fromTop="3" />
@@ -9,5 +10,8 @@
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:PlayerController.cs" caret="615" fromTop="22" />
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:PlayerController.cs" caret="192" fromTop="7" />
     <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:PlayerController.cs" caret="776" fromTop="31" />
+    <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:CameraController.cs" caret="193" fromTop="7" />
+    <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:CameraController.cs" caret="345" fromTop="12" />
+    <File id="86877CF7-1569-9C88-35A6-F92D8DB6FF96/d:Assets/d:Scripts/f:CameraController.cs" caret="409" fromTop="16" />
   </RecentEdits>
 </RecentFiles>
