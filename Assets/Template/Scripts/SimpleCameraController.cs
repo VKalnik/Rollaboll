@@ -288,7 +288,5 @@ namespace UnityTemplateProjects
             return Input.GetMouseButtonUp(1);
 #endif
         }
-
     }
-
 }
